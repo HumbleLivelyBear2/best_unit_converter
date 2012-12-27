@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, main!</string>
+    <string name="app_name">單位轉換</string>
+    <string name="setting">設定</string>
+    <string name="about">關於我們</string>
+    <string name="weight">重量</string>
+    <string name="length">長度</string>
+    <string name="temperature">溫度</string>
+    <string name="speed">速度</string>
+    <string name="area">面積</string>
+    <string name="volume">體積</string>
+    <string name="energy">能量</string>
+    <string name="time">時間</string>
+    <string name="pressure">壓力</string>
+    <string name="force">力量</string>
+    <string name="power">功率</string>
+    <string name="density">密度</string>
+    <string name="luminance">光強度</string>
+    <string name="angle">角度</string>
+    <string name="disk">電腦單位</string>
+    <string name="about_us">關於我們</string>
+    <string name="introduce">S&amp;J致力於開發手機工具,\n並將其做到最好.\n希望我們所開發的軟體\n能給大家的生活帶來一些便利性.</string>
+    <string name="welcom_contact">歡迎聯絡我們:</string>
+    <string name="email">Email: SandJStudio@gmail.com</string>
+    <string name="toast">長按 .(點) 按鈕可改變正負號</string>
+    
+    <string-array name="catagory_weight">
+    <item>公斤(kg)</item>
+    <item>公克(g)</item>
+    <item>盎司(ounce)</item>
+    <item>頓(ton)</item>
+    <item>磅(pound)</item>
+    <item>Stone</item>
+    <item>Short ton</item>
+    <item>Long ton</item>
+    <item>Metric ton</item>
+    <item>Troy Ounce</item>
+    <item>Grain</item>
+    <item>斤(台灣)</item>
+    <item>斤(中國)</item>
+    <item>兩</item>
+    </string-array>
+    <string-array name="catagory_length">
+    <item>公尺(m)</item>
+    <item>公里(km)</item>
+    <item>公分(cm)</item>
+    <item>毫米(mm)</item>
+    <item>吋(inch)</item>
+    <item>英呎(foot)</item>
+    <item>碼(yard)</item>
+    <item>英里(miles)</item>
+    <item>Naut. Miles</item>
+    <item>Fathoms</item>
+    <item>Smoot</item>
+    </string-array>
+    <string-array name="catagory_temperature">
+    <item>攝氏(C)</item>
+    <item>華式(F)</item>
+    <item>絕對溫度(K)</item>
+    </string-array>
+    <string-array name="catagory_speed">
+    <item>公尺/秒(m/s)</item>
+    <item>公里/小時(km/hr)</item>
+    <item>英里/小時(mph)</item>
+    <item>英呎/秒(fps)</item>
+    <item>英呎/分(fpm)</item>
+    <item>光速(c)</item>
+    <item>英里/分</item>
+    <item>公里/分</item>
+    <item>Knots</item>
+    </string-array>
+    <string-array name="catagory_area">
+    <item>平方公尺</item>
+    <item>平方公分</item>
+    <item>平方公里</item>
+    <item>畝(Acre)</item>
+    <item>公頃(hactare)</item>
+    <item>平方英里</item>
+    <item>平方碼</item>
+    <item>平方英尺</item>
+    <item>平方英寸</item>
+    <item>坪</item>
+    </string-array>
+    <string-array name="catagory_volume">
+    <item>公升(L)</item>
+    <item>毫升(mL)</item>
+    <item>加侖(Gallon)</item>
+    <item>品脫(pint)</item>
+    <item>立方公尺</item>
+    <item>立方英寸</item>
+    <item>立方英尺</item>
+    <item>Cup</item>
+    <item>Tablespoon</item>
+    <item>Teaspoon</item>
+    <item>Dram</item>
+    <item>Fluid Unze</item>
+    <item>Oil Barrel</item>
+    <item>Quart</item>
+    </string-array>
+    
+    <string-array name="catagory_energy">
+    <item>焦耳(Joules)</item>
+    <item>卡(Calories)</item>
+    <item>度(千瓦小時)</item>
+    <item>牛頓-公尺</item>
+    <item>Btus</item>
+    <item>Ergs</item>
+    <item>Foot-Pounds</item>
+    <item>Kg-Calories</item>
+    <item>Kg-Meters</item>
+    <item>Watt-hr</item>
+    </string-array>
+    <string-array name="catagory_time">
+    <item>小時(hours)</item>
+    <item>天(days)</item>
+    <item>分(min)</item>
+    <item>秒(sec)</item>
+    </string-array>
+    <string-array name="catagory_pressure">
+    <item>大氣壓力(atm)</item>
+    <item>帕斯卡(Pascals)</item>
+    <item>水銀高(cm)</item>
+    <item>水銀高(inches)</item>
+    <item>磅/平方英寸(psi)</item>
+    <item>公斤/平方公尺</item>
+    <item>巴(Bar)</item>
+    <item>Torr(mm-Hg)</item>
+    </string-array>     
+    <string-array name="catagory_force">
+    <item>牛頓(Newton)</item>
+    <item>達因(Dyne)</item>
+    <item>公斤-力(kp)</item>
+    <item>磅-力(lbf)</item>
+    <item>磅達(pdl)</item>
+    </string-array> 
+    <string-array name="catagory_power">
+    <item>瓦(Watts)</item>
+    <item>千瓦</item>
+    <item>馬力</item>
+    <item>英熱單位/分</item>
+    <item>英呎 磅/分</item>
+    <item>英呎 磅/秒</item>
+    </string-array>
+    <string-array name="catagory_density">
+    <item>克/立方公分</item>
+    <item>公斤/立方公尺</item>
+    <item>克/公升</item>
+    <item>公斤/公升</item>
+    <item>磅/立方英呎 </item>
+    <item>磅/立方英寸</item>
+    <item>磅/加侖(英)</item>
+    <item>磅/加侖(美)</item>
+    </string-array> 
+    <string-array name="catagory_luminance">
+    <item>燭光/平方公尺</item>
+    <item>燭光/平方公分</item>
+    <item>燭光/平方英呎</item>
+    <item>燭光/平方英寸</item>
+    <item>單位光亮(L)</item>
+    <item>熙提(Stilb)</item>
+    </string-array>  
+    <string-array name="catagory_angle">
+    <item>角度(Degree)</item>
+    <item>弧度(Radian)</item>
+    <item>Gradian</item>
+    <item>Revolution</item>
+    <item>Mil-Nato</item>
+    </string-array>
+    <string-array name="catagory_disk">
+    <item>MB(Megabyte)</item>
+    <item>GB(Gigabyte)</item>
+    <item>KB(Kilobyte)</item>
+    <item>TB(Terabyte)</item>
+    <item>B(Byte)</item>
+    <item>Gb(Gigabit)</item>
+    <item>Mb(Megabit)</item>
+    <item>Kb(Kilobit)</item>
+    <item>b(bit)</item>
+    </string-array> 
+     
+     
+     
+         
+</resources>
+
+
+

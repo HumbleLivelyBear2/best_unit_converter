@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, main!</string>
+    <string name="app_name">컨버터</string>
+    <string name="setting">세팅</string>
+    <string name="about">관한  우리</string>
+    <string name="weight">웨이트</string>
+    <string name="length">길이</string>
+    <string name="temperature">비서</string>
+    <string name="speed">속도</string>
+    <string name="area">면적</string>
+    <string name="volume">책자</string>
+    <string name="energy">활력</string>
+    <string name="time">시간</string>
+    <string name="pressure">압박</string>
+    <string name="force">힘</string>
+    <string name="power">권력</string>
+    <string name="density">밀도</string>
+    <string name="luminance">휘도</string>
+    <string name="angle">각도</string>
+    <string name="disk">데이터</string>
+    <string name="about_us">관한  우리</string>
+    <string name="introduce">S&amp;J Studio work hard for smart \nphone widget,and try our best \nto make it perfect. \nHope everyone enjoy the \nconvenience through our product.</string>
+    <string name="welcom_contact">Welcome to contact us:</string>
+    <string name="email">Email: SandJStudio@gmail.com</string>
+    <string name="toast">은 긍정적이든   부정적 로그인 변경 버튼을 도트 롱 보도</string>
+    
+    <string-array name="catagory_weight">
+    <item>킬로그램(kg)</item>
+    <item>그램(g)</item>
+    <item>온스(ounce)</item>
+    <item>톤(ton)</item>
+    <item>파운드(pound)</item>
+    <item>돌</item>
+    <item>짧은 톤</item>
+    <item>긴톤</item>
+    <item>메트릭 톤</item>
+    <item>트로이 온스</item>
+    <item>곡물</item>
+    <item>캐티 (TW)</item>
+    <item>캐티 (CN)</item>
+    <item>화폐</item>
+    </string-array>
+    <string-array name="catagory_length">
+    <item>미터(m)</item>
+    <item>킬로미터(km)</item>
+    <item>센티미터(cm)</item>
+    <item>밀리미터(mm)</item>
+    <item>인치(inch)</item>
+    <item>발(foot)</item>
+    <item>마당(yard)</item>
+    <item>마일(miles)</item>
+    <item>Naut. Miles</item>
+    <item>Fathoms</item>
+    <item>Smoot</item>
+    </string-array>
+    <string-array name="catagory_temperature">
+    <item>섭씨(C)</item>
+    <item>화씨(F)</item>
+    <item>켈빈(K)</item>
+    </string-array>
+    <string-array name="catagory_speed">
+    <item>미터/초(m/s)</item>
+    <item>킬로미터/시간(km/hr)</item>
+    <item>마일/시간(mph)</item>
+    <item>피트/초(fps)</item>
+    <item>발/분(fpm)</item>
+    <item>빛의 속도(c)</item>
+    <item>마일/분</item>
+    <item>km/분</item>
+    <item>노트</item>
+    </string-array>
+    <string-array name="catagory_area">
+    <item>평방. 미터</item>
+    <item>평방. 센티미터</item>
+    <item>평방. 킬로미터</item>
+    <item>에이커(Acre)</item>
+    <item>헥타르(hactare)</item>
+    <item>평방. 마일</item>
+    <item>평방. 마당</item>
+    <item>평방. 피트</item>
+    <item>평방. 인치</item>
+    <item>평</item>
+    </string-array>
+    <string-array name="catagory_volume">
+    <item>리터(L)</item>
+    <item>밀리리터(mL)</item>
+    <item>갤런(Gallon)</item>
+    <item>파인트(pint)</item>
+    <item>입방 미터</item>
+    <item>입방 인치</item>
+    <item>입방 피트</item>
+    <item>컵</item>
+    <item>식탁용 스푼</item>
+    <item>찻숟가락</item>
+    <item>음주</item>
+    <item>액체 온스</item>
+    <item>오일 배럴</item>
+    <item>쿼트</item>
+    </string-array>
+    
+    <string-array name="catagory_energy">
+    <item>쥴로(Joules)</item>
+    <item>칼로리(Calories)</item>
+    <item>전력 소모-hr</item>
+    <item>뉴턴 미터</item>
+    <item>Btus</item>
+    <item>Ergs</item>
+    <item>푸트 파운드</item>
+    <item>kg-칼로리</item>
+    <item>kg-미터</item>
+    <item>와트-hr</item>
+    </string-array>
+    <string-array name="catagory_time">
+    <item>영업 시간(hours)</item>
+    <item>일(days)</item>
+    <item>분(min)</item>
+    <item>초(sec)</item>
+    </string-array>
+    <string-array name="catagory_pressure">
+    <item>분위기(atm)</item>
+    <item>파스칼(Pascals)</item>
+    <item>cm-Hg</item>
+    <item>inch-Hg</item>
+    <item>psi</item>
+    <item>Kg/Sq. Meter</item>
+    <item>바(Bar)</item>
+    <item>Torr(mm-Hg)</item>
+    </string-array>     
+    <string-array name="catagory_force">
+    <item>뉴턴(N)</item>
+    <item>다인(Dyn)</item>
+    <item>킬로그램(kp)</item>
+    <item>파운드(lbf)</item>
+    <item>Poundal(pdl)</item>
+    </string-array> 
+    <string-array name="catagory_power">
+    <item>와트(Watts)</item>
+    <item>전력 소모</item>
+    <item>마력</item>
+    <item>Btu/min</item>
+    <item>ft lb/min</item>
+    <item>ft lb/sec</item>
+    </string-array>
+    <string-array name="catagory_density">
+    <item>g/cm^3</item>
+    <item>kg/m^3</item>
+    <item>g/l</item>
+    <item>kg/l</item>
+    <item>lb/foot^3</item>
+    <item>lb/inch^3</item>
+    <item>lb/Gallon(UK)</item>
+    <item>lb/Gallon(US)</item>
+    </string-array> 
+    <string-array name="catagory_luminance">
+    <item>cd/m^2</item>
+    <item>cd/cm^2</item>
+    <item>cd/ft^2</item>
+    <item>cd/in^2</item>
+    <item>Lambert(L)</item>
+    <item>Stilb</item>
+    </string-array>
+    <string-array name="catagory_angle">
+    <item>도수</item>
+    <item>라디안</item>
+    <item>관리자</item>
+    <item>혁명</item>
+    <item>Mil-Nato</item>
+    </string-array>
+    <string-array name="catagory_disk">
+    <item>MB(Megabyte)</item>
+    <item>GB(Gigabyte)</item>
+    <item>KB(Kilobyte)</item>
+    <item>TB(Terabyte)</item>
+    <item>B(Byte)</item>
+    <item>Gb(Gigabit)</item>
+    <item>Mb(Megabit)</item>
+    <item>Kb(Kilobit)</item>
+    <item>b(bit)</item>
+    </string-array> 
+     
+     
+     
+         
+</resources>
+

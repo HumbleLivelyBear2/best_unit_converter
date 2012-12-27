@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="hello"> Hallo Welt, Haupt! </string>
+    <string name="app_name"> Konverter </string>
+    <string name="setting"> Einstellung </string>
+    <string name="about"> Über uns</string>
+    <string name="weight"> Gewicht </string>
+    <string name="length"> Länge </string>
+    <string name="temperature"> Temperatur </string>
+    <string name="speed"> Geschwindigkeit </string>
+    <string name="area"> Bereich </string>
+    <string name="volume"> Volumen </string>
+    <string name="energy"> Energie </string>
+    <string name="time"> Zeit </string>
+    <string name="pressure"> Druck </string>
+    <string name="force"> Stärke </string>
+    <string name="power"> Macht </string>
+    <string name="density"> Dichte </string>
+    <string name="luminance"> Lichtintensität </string>
+    <string name="angle"> Winkel </string>
+    <string name="disk"> Computereinheit </string>
+    <string name="about_us"> Über uns </string>
+    <string name="introduce">S&amp;J Studio work hard for smart \nphone widget,and try our best \nto make it perfect. \nHope everyone enjoy the \nconvenience through our product.</string>
+    <string name="welcom_contact">Welcome to contact us:</string>
+    <string name="email">Email: SandJStudio@gmail.com</string>
+    <string name="toast">Lange Presse auf die Punkt-Taste zum positiven oder negativen Zeichen ändern</string> 
+    
+    <string-array name="catagory_weight">
+    <item>Kilogramm (kg) </item>
+    <item>Gramm (g) </item>
+    <item>Unze (Ounce) </item>
+    <item>Tonne (ton) </item>
+    <item>Pfund (lb) </item>
+    <item>Stein (stone) </item>
+    <item>Kurze Tonne </item>
+    <item>Lange Tonne </item>
+    <item>Metrische Tonne </item>
+    <item>Troy Unze </item>
+    <item>Grain</item>
+    <item>Catty(TW)</item>
+    <item>Catty(CN)</item>
+    <item>Tael</item>
+    </string-array>
+    <string-array name="catagory_length">
+    <item>Meter (m) </item>
+    <item>Kilometer (km) </item>
+    <item>Zentimeter (cm) </item>
+    <item>Millimeter (mm) </item>
+    <item>Zoll (inch) </item>
+    <item>Fuß (foot) </item>
+    <item>Yard  </item>
+    <item>Meilen (Miles) </item>
+    <item>Naut. Meilen </item>
+    <item>Fathoms </item>
+    <item>Smoot </item>
+    </string-array>
+    <string-array name="catagory_temperature">
+    <item>Celsius (C) </item>
+    <item>Fahrenheit (F) </item>
+    <item>Kelvin (K) </item>
+    </string-array>
+    <string-array name="catagory_speed">
+    <item>Meter/Sek (m/s) </item>
+    <item>Kilometer/Stu (km/h) </item>
+    <item>Meilen/Stu (mph) </item>
+    <item>Fuß /Sek (fps) </item>
+    <item>Fuß/Min (fpm) </item>
+    <item>Helle Geschwindigkeit (c) </item>
+    <item>Meilen/Min </item>
+    <item>Km/Min </item>
+    <item>Knots  </item>
+    </string-array>
+    <string-array name="catagory_area">
+    <item>m^2 </item>
+    <item>cm^2</item>
+    <item>km² </item>
+    <item>Morgen (Acre) </item>
+    <item>Hektar (Hectare) </item>
+    <item>Quadrat-Meilen </item>
+    <item>Quadrat. Yard </item>
+    <item>Quadrat. Fuß </item>
+    <item>Quadrat. Zoll </item>
+    <item>Ping </item>
+    </string-array>
+     <string-array name="catagory_volume">
+    <item>Liter</item>
+    <item>MiliLiter</item>
+    <item>Gallone</item>
+    <item>Pint</item>
+    <item>Kubik Meter</item>
+    <item>Kubik Zoll</item>
+    <item>Kubik fuß</item>
+    <item>Schale</item>
+    <item>Eßlöffel</item>
+    <item>Teelöffel</item>
+    <item>Dram</item>
+    <item>Fluid Unze</item>
+    <item>Oil Barrel</item>
+    <item>Quart</item>
+    </string-array>
+    <string-array name="catagory_energy">
+    <item>Joule</item>
+    <item>Kalorien</item>
+    <item>Kilowatt-Stunde</item>
+    <item>Newton-Meters</item>
+    <item>Btus</item>
+    <item>Ergs</item>
+    <item>Fußpfunde</item>
+    <item>Kg-Kalorien</item>
+    <item>Kg-Meter</item>
+    <item>Watt-Stunde</item>
+    </string-array>
+    <string-array name="catagory_time">
+    <item>Stunden</item>
+    <item>Tag</item>
+    <item>Min</item>
+    <item>Sek</item>
+    </string-array> 
+    <string-array name="catagory_pressure">
+    <item>Atmosphäre</item>
+    <item>Pascals</item>
+    <item>cm-Hg</item>
+    <item>inch-Hg</item>
+    <item>psi</item>
+    <item>Kg/Kubik Meter</item>
+    <item>Bar</item>
+    <item>Torr(mm-Hg)</item>
+    </string-array>
+    <string-array name="catagory_force">
+    <item>Newton(N)</item>
+    <item>Dyn (Dyns)</item>
+    <item>Kilogramm-Kraft (kp)</item>
+    <item>LbsKraft(lbf)</item>
+    <item>Poundal(pdl)</item>
+    </string-array> 
+    <string-array name="catagory_power">
+    <item>Watts</item>
+    <item>Kilowatt</item>
+    <item>Pferdestärken</item>
+    <item>Btu/min</item>
+    <item>ft lb/min</item>
+    <item>ft lb/sec</item>
+    </string-array>     
+    <string-array name="catagory_density">
+    <item>g/cm^3</item>
+    <item>kg/m^3</item>
+    <item>g/l</item>
+    <item>kg/l</item>
+    <item>lb/foot^3</item>
+    <item>lb/inch^3</item>
+    <item>lb/Gallon(UK)</item>
+    <item>lb/Gallon(US)</item>
+    </string-array> 
+    <string-array name="catagory_luminance">
+    <item>cd/m^2</item>
+    <item>cd/cm^2</item>
+    <item>cd/ft^2</item>
+    <item>cd/in^2</item>
+    <item>Lambert(L)</item>
+    <item>Stilb</item>
+    </string-array>
+    <string-array name="catagory_angle">
+    <item>Degree</item>
+    <item>Radian</item>
+    <item>Gradian</item>
+    <item>Revolution</item>
+    <item>Mil-Nato</item>
+    </string-array>
+    <string-array name="catagory_disk">
+    <item>MB(Megabyte)</item>
+    <item>GB(Gigabyte)</item>
+    <item>KB(Kilobyte)</item>
+    <item>TB(Terabyte)</item>
+    <item>B(Byte)</item>
+    <item>Gb(Gigabit)</item>
+    <item>Mb(Megabit)</item>
+    <item>Kb(Kilobit)</item>
+    <item>b(bit)</item>
+    </string-array>  
+     
+    
+         
+</resources>

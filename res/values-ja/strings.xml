@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+   <string name="hello">こんにちは主要な世界!</string>
+    <string name="app_name">単位換算</string>
+    <string name="setting"> 設定</string>
+    <string name="about">会社案内</string>
+    <string name="weight">重さ</string>
+    <string name="length">長さ</string>
+    <string name="temperature">温度</string>
+    <string name="speed">速度</string>
+    <string name="area">区域</string>
+    <string name="volume">量</string>
+    <string name="energy">エネルギー</string>
+    <string name="time">時間</string>
+    <string name="pressure">圧力</string>
+    <string name="force">力</string>
+    <string name="power">パワー</string>
+    <string name="density">密度</string>
+    <string name="luminance">光</string>
+    <string name="angle">角度</string>
+    <string name="disk">データ</string>
+    <string name="about_us">会社案内</string>
+    <string name="introduce">S&amp;J Studio work hard for smart \nphone widget,and try our best \nto make it perfect. \nHope everyone enjoy the \nconvenience through our product.</string>
+    <string name="welcom_contact">Welcome to contact us:</string>
+    <string name="email">Email: SandJStudio@gmail.com</string>
+    <string name="toast">ボタンを長く押すと 正負符号を変更する事になります</string>
+    
+    <string-array name="catagory_weight">
+    <item>キログラム(kg)</item>
+    <item>グラム(g)</item>
+    <item>オンス(Ounce)</item>
+    <item>トン(Ton)</item>
+    <item>ポンド(Pound)</item>
+    <item>ストーン(Stone)</item>
+    <item>小トン</item>
+    <item>英トン</item>
+    <item>メートルトン</item>
+    <item>金衡オンス</item>
+    <item>Grain</item>
+    <item>キロ(台湾)</item>
+    <item>キロ(中国)</item>
+    <item>は</item>
+    </string-array>
+    <string-array name="catagory_length">
+    <item>メータ(m)</item>
+    <item>キロメートル(km)</item>
+    <item>センチ(cm)</item>
+    <item>ミリメートル(mm)</item>
+    <item>インチ(inch)</item>
+    <item>フィート(Foot)</item>
+    <item>ヤード(Yard)</item>
+    <item>メートル(Miles)</item>
+    <item>航海マイル </item>
+    <item>Fathoms</item>
+    <item>Smoot</item>
+    </string-array>
+    <string-array name="catagory_temperature">
+    <item>摂氏</item>
+    <item>華氏</item>
+    <item>ケルヴィン</item>
+    </string-array>
+    <string-array name="catagory_speed">
+    <item>メートル/秒(m/s)</item>
+    <item>キロメートル/時(km/hr)</item>
+    <item>マイル/時(mph)</item>
+    <item>フィート/秒(fps)</item>
+    <item>フィート/分(fpm)</item>
+    <item>ライトスピード</item>
+    <item>マイル/分</item>
+    <item>キロ/分</item>
+    <item>ノット</item>
+    </string-array>
+    <string-array name="catagory_area">
+    <item>平方メートル</item>
+    <item>平方センチメートル</item>
+    <item>平方キロメートル</item>
+    <item>エーカー</item>
+    <item>ヘクタール(Hectare)</item>
+    <item>平方マイル</item>
+    <item>平方ヤード</item>
+    <item>平方フィート</item>
+    <item>平方インチ</item>
+    <item>坪</item>
+    </string-array>
+    <string-array name="catagory_volume">
+    <item>リットル(L)</item>
+    <item>ミリリットル(mL)</item>
+    <item>ガロン(Gallon)</item>
+    <item>パイント</item>
+    <item>立方メートル</item>
+    <item>立方インチ</item>
+    <item>立方フィート</item>
+    <item>カップ</item>
+    <item>テーブルスプーン</item>
+    <item>小さじ1杯</item>
+    <item>ドラム</item>
+    <item>Fluid Unze</item>
+    <item>Oil Barrel</item>
+    <item>Quart</item>
+    </string-array>
+    <string-array name="catagory_energy">
+    <item>ジュール(Joule)</item>
+    <item>カロリー(カロリー)</item>
+    <item>キロワット-時</item>
+    <item>ニュートンメーター</item>
+    <item>BTU単位の</item>
+    <item>エルグ</item>
+    <item>フィートポンド</item>
+    <item>キロカロリー</item>
+    <item>キロメートル</item>
+    <item>ワット-時</item>
+    </string-array>
+    <string-array name="catagory_time">
+    <item>時</item>
+    <item>日</item>
+    <item>分</item>
+    <item>秒</item>
+    </string-array>
+    <string-array name="catagory_pressure">
+    <item>ムード</item>
+    <item>パスカル</item>
+    <item>ヘクトグラム</item>
+    <item>ヘクトインチ</item>
+    <item>psi</item>
+    <item>平方キロメートル</item>
+    <item>バー</item>
+    <item>ヘクトミリトル</item>
+    </string-array>     
+    <string-array name="catagory_force">
+    <item>ニュートン</item>
+    <item>ダイン</item>
+    <item>Kg力(kp)</item>
+    <item>lb力(lbf)</item>
+    <item>パウンダル </item>
+    </string-array> 
+    <string-array name="catagory_power">
+    <item>ワッツ</item>
+    <item>キロワット</item>
+    <item>馬力</item>
+    <item>カロリー/分</item>
+    <item>フィートポンド/分</item>
+    <item>フィートポンド/秒</item>
+    </string-array>
+    <string-array name="catagory_density">
+    <item>g/cm^3 の </item>
+    <item>キロ/m^3 の</item>
+    <item>g/lの</item>
+    <item>キロ/リットル</item>
+    <item>ポンド/フィート^3</item>
+    <item>ポンド/インチ^3</item>
+    <item>ポンド/ガロン(イギリス)</item>
+    <item>ポンド/ガロン(米国)</item>
+    </string-array> 
+    <string-array name="catagory_luminance">
+    <item>cd/m^2</item>
+    <item>cd/cm^2</item>
+    <item>cd/ft^2</item>
+    <item>cd/in^2</item>
+    <item>ランバート(L)</item>
+    <item>スチルブ</item>
+    </string-array>
+    <string-array name="catagory_angle">
+    <item>度(Degree)</item>
+    <item>ラジアン(Radian)</item>
+    <item>Gradian</item>
+    <item>Revolution</item>
+    <item>Mil-Nato</item>
+    </string-array>
+    <string-array name="catagory_disk">
+    <item>MB(Megabyte)</item>
+    <item>GB(Gigabyte)</item>
+    <item>KB(Kilobyte)</item>
+    <item>TB(Terabyte)</item>
+    <item>B(Byte)</item>
+    <item>Gb(Gigabit)</item>
+    <item>Mb(Megabit)</item>
+    <item>Kb(Kilobit)</item>
+    <item>b(bit)</item>
+    </string-array>  
+    
+ </resources>

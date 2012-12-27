@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!--
+		Copyright (c) 2010 IBM Corporation and others. All rights reserved.
+		This program and the accompanying materials are made available under
+		the terms of the Eclipse Public License v1.0 which accompanies this
+		distribution, and is available at
+		http://www.eclipse.org/legal/epl-v10.html Contributors: IBM
+		Corporation - initial API and implementation
+	-->
+
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:paddingTop="5dp"
+	android:paddingLeft="5dp"
+	android:paddingRight="5dp"
+	android:paddingBottom="5dp">
+    <LinearLayout 
+    android:layout_width="fill_parent" 
+    android:layout_height="2dip" 
+    android:background="#4DA6FF" >
+    </LinearLayout>
+  
+	<LinearLayout
+		android:layout_width="280dip"
+		android:layout_height="200dip"
+		android:orientation="vertical"
+		android:layout_marginTop="10dip"
+		>
+		<TextView
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:textSize="15dip"
+			android:text="@string/introduce">
+		</TextView>
+        <TextView 
+            android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dip"
+			android:textSize="15dip"
+			android:text="@string/welcom_contact">
+        </TextView>
+        <TextView 
+            android:autoLink="email"
+            android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:textSize="15dip"
+			android:text="@string/email">
+        </TextView>
+        <TextView 
+            android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="Steve &amp; Jason"
+			android:textSize="20dip"
+			android:layout_marginTop="10dip"
+			>
+		</TextView>
+	</LinearLayout> 
+</LinearLayout>
+
+
+
+
+
+
+
+

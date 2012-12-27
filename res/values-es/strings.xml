@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, main!</string>
+    <string name="app_name">Convertidor</string>
+    <string name="setting">Adjustes</string>
+    <string name="about">Sobre</string>
+    <string name="weight">Peso</string>
+    <string name="length">Longitud</string>
+    <string name="temperature">Temp.</string>
+    <string name="speed">Velocidad</string>
+    <string name="area">Área </string>
+    <string name="volume">Volumen</string>
+    <string name="energy">Energía</string>
+    <string name="time">Tiempo</string>
+    <string name="pressure">Presión</string>
+    <string name="force">Fuerza</string>
+    <string name="power">Electricidad</string>
+    <string name="density">Densidad</string>
+    <string name="luminance">Luminancia</string>
+    <string name="angle">Ángulo</string>
+    <string name="disk">Datos</string>
+    <string name="about_us">Sobre</string>
+    <string name="introduce">S&amp;J Studio work hard for smart \nphone widget,and try our best \nto make it perfect. \nHope everyone enjoy the \nconvenience through our product.</string>
+    <string name="welcom_contact">Welcome to contact us:</string>
+    <string name="email">Email: SandJStudio@gmail.com</string>
+    
+    <string name="toast">Pulse el botón para cambiar las señales entre el positivo o negativo</string>
+    
+    <string-array name="catagory_weight">
+    <item>Kilogramo</item>
+    <item>Gramo</item>
+    <item>Onza</item>
+    <item>Tonelada</item>
+    <item>Libra</item>
+    <item>Piedra</item>
+    <item>Tonelada Corta</item>
+    <item>Tonelada Larga</item>
+    <item>Metric Tonelada</item>
+    <item>Troy Onza</item>
+    <item>Grano</item>
+    <item>Catty(TW)</item>
+    <item>Catty(CN)</item>
+    <item>Tael</item>
+    </string-array>
+    <string-array name="catagory_length">
+    <item>Metros</item>
+    <item>Kilómetros</item>
+    <item>Centímetros</item>
+    <item>Milímetros</item>
+    <item>Pulgada</item>
+    <item>Pie</item>
+    <item>Yarda</item>
+    <item>Millas</item>
+    <item>Millas Naut.</item>
+    <item>Braza</item>
+    <item>Smoot</item>
+    </string-array>
+    <string-array name="catagory_temperature">
+    <item>Centígrado</item>
+    <item>Fahrenheit</item>
+    <item>Kelvin</item>
+    </string-array>
+    <string-array name="catagory_speed">
+    <item>Metros/sec</item>
+    <item>Kilómetros/hr</item>
+    <item>Millas/hr(mph)</item>
+    <item>Pie/sec(fps)</item>
+    <item>Pie/min(fpm)</item>
+    <item>Velocidad de la luz</item>
+    <item>Millas/min</item>
+    <item>Km/min</item>
+    <item>Nudo</item>
+    </string-array>
+    <string-array name="catagory_area">
+    <item>Metro Cuadrado</item>
+    <item>Centímetro Cuadrado</item>
+    <item>Kilómetro Cuadrado</item>
+    <item>Acre</item>
+    <item>Hectárea</item>
+    <item>Millas Cuadradas</item>
+    <item>Yarda Cuadrada</item>
+    <item>Pie Cuadrado</item>
+    <item>Pulgada Cuadrada</item>
+    <item>Ping</item>
+    </string-array>
+    <string-array name="catagory_volume">
+    <item>Litro</item>
+    <item>Mililitro</item>
+    <item>Galón</item>
+    <item>Pinta</item>
+    <item>Metro Cúbido</item>
+    <item>Pulgada Cúbida</item>
+    <item>Pie Cúbida</item>
+    <item>Taza</item>
+    <item>Cucharada</item>
+    <item>Cucharadita</item>
+    <item>Copita</item>
+    <item>Líguido de Onza</item>
+    <item>Oil Barrel</item>
+    <item>Cuarta</item>
+    </string-array>
+    <string-array name="catagory_energy">
+    <item>Joule</item>
+    <item>Calorías</item>
+    <item>Kilovatio-hr</item>
+    <item>Newton-Metros</item>
+    <item>Btus</item>
+    <item>Ergio</item>
+    <item>Pie-libra</item>
+    <item>Kg-Calorías</item>
+    <item>Kg-Metros</item>
+    <item>Vatio-hr</item>
+    </string-array>
+    <string-array name="catagory_time">
+    <item>Horas</item>
+    <item>Días</item>
+    <item>Minuto</item>
+    <item>Secundo</item>
+    </string-array> 
+    <string-array name="catagory_pressure">
+    <item>Atmósfera</item>
+    <item>Pascales</item>
+    <item>cm-Hg</item>
+    <item>pulgada-Hg</item>
+    <item>psi</item>
+    <item>Kg/Metro Cuadrado</item>
+    <item>Barra</item>
+    <item>Torr(mm-Hg)</item>
+    </string-array>
+    <string-array name="catagory_force">
+    <item>Newton(N)</item>
+    <item>Dyne(dyn)</item>
+    <item>Kg-fuerza(kp)</item>
+    <item>Libra-fuerza(lbf)</item>
+    <item>Poundal(pdl)</item>
+    </string-array> 
+    <string-array name="catagory_power">
+    <item>Vatios</item>
+    <item>Kilovatios</item>
+    <item>Caballo de fuerza</item>
+    <item>Btu/min</item>
+    <item>Pie libra/min</item>
+    <item>Pie libra/sec</item>
+    </string-array>     
+    <string-array name="catagory_density">
+    <item>g/cm^3</item>
+    <item>kg/m^3</item>
+    <item>g/l</item>
+    <item>kg/l</item>
+    <item>libra/pie^3</item>
+    <item>libra/pulgada^3</item>
+    <item>libra/Galón(UK)</item>
+    <item>libra/Galón(US)</item>
+    </string-array> 
+    <string-array name="catagory_luminance">
+    <item>cd/m^2</item>
+    <item>cd/cm^2</item>
+    <item>cd/pie^2</item>
+    <item>cd/pulgada^2</item>
+    <item>Lambert(L)</item>
+    <item>Stilb</item>
+    </string-array>
+    <string-array name="catagory_angle">
+    <item>Grado</item>
+    <item>Radián</item>
+    <item>Grado centesimal</item>
+    <item>Vuelta</item>
+    <item>Mil-Nato</item>
+    </string-array>
+    <string-array name="catagory_disk">
+    <item>MB(Megabyte)</item>
+    <item>GB(Gigabyte)</item>
+    <item>KB(Kilobyte)</item>
+    <item>TB(Terabyte)</item>
+    <item>B(Byte)</item>
+    <item>Gb(Gigabit)</item>
+    <item>Mb(Megabit)</item>
+    <item>Kb(Kilobit)</item>
+    <item>b(bit)</item>
+    </string-array>  
+    
+</resources>
